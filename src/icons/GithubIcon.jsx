@@ -1,5 +1,3 @@
-import React from 'react';
-
 const GithubIcon = ({style = {}, width = '100%', className = '', height = '100%', viewBox = '0 0 24 24'}) => (
   <svg
     width={width}
