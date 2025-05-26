@@ -11,4 +11,4 @@ const GithubIcon = ({style = {}, width = '100%', className = '', height = '100%'
   </svg>
 );
 
-export default GithubIcon;
+export default GithubIcon as any;

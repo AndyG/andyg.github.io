@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import SocialMediaLink from "./SocialMediaLink";
-import GithubIcon from "../icons/GithubIcon";
+import GithubIcon from "../icons/GithubIcon.tsx";
 import styles from "./App.module.styl";
 
 class App extends Component<{}> {
