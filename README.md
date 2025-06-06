@@ -1,3 +1,12 @@
+# Deployment via gh-pages
+
+Dev on `source`, deploy to `master` and the `gh-pages` plugin will take care of the deploy.
+
+# Local Development:
+
+To dev: `npm run dev`
+To test release: `npm run build`
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
